@@ -1,0 +1,6 @@
+Pivotal.vscode-boot-dev-pack
+Pivotal.vscode-concourse
+Pivotal.vscode-manifest-yaml
+Pivotal.vscode-spring-boot
+vscjava.vscode-spring-boot-dashboard
+vscjava.vscode-spring-initializr

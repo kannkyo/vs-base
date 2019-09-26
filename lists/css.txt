@@ -1,0 +1,2 @@
+anseki.vscode-color
+naumovs.color-highlight

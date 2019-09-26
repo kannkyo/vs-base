@@ -1,0 +1,5 @@
+dbaeumer.vscode-eslint
+xabikos.JavaScriptSnippets
+msjsdiag.debugger-for-chrome
+joelday.docthis
+WallabyJs.quokka-vscode

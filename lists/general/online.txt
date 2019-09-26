@@ -1,0 +1,3 @@
+Shan.code-settings-sync
+WakaTime.vscode-wakatime
+kenhowardpdx.vscode-gist
