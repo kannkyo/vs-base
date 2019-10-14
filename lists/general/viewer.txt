@@ -1,0 +1,5 @@
+alefragnani.Bookmarks
+alefragnani.project-manager
+MS-CEINTL.vscode-language-pack-ja
+vscode-icons-team.vscode-icons
+IBM.output-colorizer

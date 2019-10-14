@@ -1,0 +1,5 @@
+CoenraadS.bracket-pair-colorizer
+christian-kohler.path-intellisense
+esbenp.prettier-vscode
+VisualStudioExptTeam.vscodeintellicode
+streetsidesoftware.code-spell-checker
