@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    // plantuml
+    "jebbs.plantuml",
+    // markdown
+    "DavidAnson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one"
+  ],
+  "unwantedRecommendations": []
+}
