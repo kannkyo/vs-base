@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    // c
+    "ms-vscode.cpptools"
+  ],
+  "unwantedRecommendations": []
+}
