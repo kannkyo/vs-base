@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    // python
+    "ms-python.python",
+    "njpwerner.autodocstring"
+  ],
+  "unwantedRecommendations": []
+}
