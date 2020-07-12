@@ -1,0 +1,40 @@
+{
+  "recommendations": [
+    // csv
+    "mechatroner.rainbow-csv",
+    "CoenraadS.bracket-pair-colorizer",
+    "christian-kohler.path-intellisense",
+    // editor
+    "esbenp.prettier-vscode",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "streetsidesoftware.code-spell-checker",
+    // git
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    // log
+    "emilast.LogFileHighlighter",
+    // remote
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    // todo
+    "Gruntfuggly.todo-tree",
+    "wayou.vscode-todo-highlight",
+    // viewer
+    "alefragnani.Bookmarks",
+    "alefragnani.project-manager",
+    "vscode-icons-team.vscode-icons",
+    "IBM.output-colorizer",
+    // japanese
+    "MS-CEINTL.vscode-language-pack-ja",
+    // xml
+    "redhat.vscode-xml",
+    "DotJoshJohnson.xml",
+    // yml
+    "redhat.vscode-yaml",
+    // version
+    "pflannery.vscode-versionlens",
+    // regx
+    "chrmarti.regex"
+  ],
+  "unwantedRecommendations": []
+}
