@@ -2,11 +2,15 @@
   "recommendations": [
     // csv
     "mechatroner.rainbow-csv",
+    // colorizer
     "CoenraadS.bracket-pair-colorizer",
-    "christian-kohler.path-intellisense",
+    "IBM.output-colorizer",
     // editor
     "esbenp.prettier-vscode",
+    // intellisense
+    "christian-kohler.path-intellisense",
     "VisualStudioExptTeam.vscodeintellicode",
+    // spell checker
     "streetsidesoftware.code-spell-checker",
     // git
     "codezombiech.gitignore",
@@ -22,8 +26,8 @@
     // viewer
     "alefragnani.Bookmarks",
     "alefragnani.project-manager",
+    // icon
     "vscode-icons-team.vscode-icons",
-    "IBM.output-colorizer",
     // japanese
     "MS-CEINTL.vscode-language-pack-ja",
     // xml
