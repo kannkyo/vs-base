@@ -2,7 +2,9 @@
   "recommendations": [
     // python
     "ms-python.python",
-    "njpwerner.autodocstring"
+    "njpwerner.autodocstring",
+    // flask
+    "cstrap.flask-snippets"
   ],
   "unwantedRecommendations": []
 }
