@@ -3,17 +3,61 @@
   "tasks": [
     {
       "type": "npm",
+      "label": "npm: start",
       "script": "start",
       "problemMatcher": [],
-      "label": "npm: start",
-      "detail": "node ./bin/www"
+      "dependsOn": [
+        "npm: install"
+      ]
     },
     {
       "type": "npm",
-      "script": "install",
+      "label": "npm: debug",
+      "script": "debug",
       "problemMatcher": [],
+      "dependsOn": [
+        "npm: install"
+      ]
+    },
+    {
+      "type": "npm",
       "label": "npm: install",
-      "detail": "install dependencies from package"
+      "script": "install",
+      "problemMatcher": []
+    },
+    {
+      "type": "docker-build",
+      "label": "docker-build",
+      "platform": "node",
+      "dockerBuild": {
+        "dockerfile": "${workspaceFolder}/Dockerfile",
+        "context": "${workspaceFolder}",
+        "pull": true
+      }
+    },
+    {
+      "type": "docker-run",
+      "label": "docker-run: release",
+      "dependsOn": [
+        "docker-build"
+      ],
+      "platform": "node"
+    },
+    {
+      "type": "docker-run",
+      "label": "docker-run: debug",
+      "dependsOn": [
+        "docker-build"
+      ],
+      "dockerRun": {
+        "env": {
+          "DEBUG": "*",
+          "NODE_ENV": "development"
+        }
+      },
+      "node": {
+        "enableDebugging": true
+      }
     }
   ]
 }
