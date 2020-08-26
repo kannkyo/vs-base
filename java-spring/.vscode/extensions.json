@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    // java
+    "vscjava.vscode-java-pack",
+    "faustinoaq.javac-linter",
+    "shengchen.vscode-checkstyle",
+    "Pivotal.vscode-boot-dev-pack",
+    "SummerSun.vscode-jetty",
+    "adashen.vscode-tomcat"
+  ],
+  "unwantedRecommendations": []
+}
