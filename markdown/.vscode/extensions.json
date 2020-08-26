@@ -2,9 +2,15 @@
   "recommendations": [
     // plantuml
     "jebbs.plantuml",
+    // mermaid
+    "tomoyukim.vscode-mermaid-editor",
     // markdown
     "DavidAnson.vscode-markdownlint",
-    "yzhang.markdown-all-in-one"
+    "yzhang.markdown-all-in-one",
+    // presentation
+    "jspolancor.presentationmode",
+    "evilz.vscode-reveal",
+    "marp-team.marp-vscode"
   ],
   "unwantedRecommendations": []
 }
