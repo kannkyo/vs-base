@@ -38,7 +38,9 @@
     // version
     "pflannery.vscode-versionlens",
     // regx
-    "chrmarti.regex"
+    "chrmarti.regex",
+    // time
+    "lkytal.pomodoro"
   ],
   "unwantedRecommendations": []
 }
