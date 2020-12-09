@@ -3,5 +3,12 @@
     "editor.wordWrap": "on",
     "editor.quickSuggestions": false
   },
-  "markdownlint.run": "onSave"
+  "markdownlint.run": "onSave",
+  "plantuml.exportSubFolder": false,
+  "plantuml.diagramsRoot": "puml",
+  "plantuml.exportOutDir": "images",
+  "plantuml.exportFormat": "png",
+  "plantuml.includepaths": [
+    ".config/"
+  ]
 }
